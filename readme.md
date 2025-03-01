@@ -1,3 +1,5 @@
+##### I set this up some years ago to centralize sheet music I found online but had to make it private for some reason. Anyway, it’s back now.
+
 ###### All credits belong to their respective artists. Will be updating this repo regularly as I learn/acquire new sheet music, enjoy :)
 ###### All sheets were already made public and pulled from public sites such as Scribd, Musescore, free-scores, etc.
 ###### P.S. This readme could be outdated, see [tree.txt](https://github.com/JKleinne/PianoSheets/blob/master/tree.txt) for a more up-to-date list of contents
