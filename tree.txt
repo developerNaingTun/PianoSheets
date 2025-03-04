@@ -58,7 +58,6 @@
 ├── Collections
 │   ├── .DS_Store
 │   ├── Final Fantasy VII - Piano Collection.pdf
-│   ├── Hal Leonard Jazz Library.pdf
 │   └── The Piano Solos of Richard Clayderman.pdf
 ├── Jazz
 │   ├── Art Tatum - Tenderly.pdf
@@ -66,6 +65,7 @@
 │   ├── Dream A Little Dream Of Me.pdf
 │   ├── Hans piano
 │   │   ├── All Of Me.pdf
+│   │   ├── As Time Goes By..pdf
 │   │   ├── Autumn Leaves.pdf
 │   │   ├── Blue Bossa.pdf
 │   │   ├── Can't Take My Eyes Off You.pdf
@@ -78,19 +78,15 @@
 │   │   ├── Love Will Keep Us Together.pdf
 │   │   ├── Misty.pdf
 │   │   ├── Moon River.pdf
+│   │   ├── My Way.pdf
 │   │   ├── Nothing gonna change my love for you.pdf
 │   │   ├── The Carpenters - Close To You.pdf
 │   │   ├── The Days Of Wine And Roses.pdf
 │   │   ├── The Way You Look Tonight.pdf
 │   │   ├── Unforgettable.pdf
 │   │   ├── What A Wonderful World.pdf
-│   │   └── Yesterday.pdf
-│   ├── Jonny May
-│   │   ├── Avicii - Wake Me Up.pdf
-│   │   ├── Cruella De Vil.pdf
-│   │   ├── Georgia On My Mind.pdf
-│   │   ├── Jazz Happy Birthday.pdf
-│   │   └── Somewhere Over The Rainbow.pdf
+│   │   ├── Yesterday.pdf
+│   │   └── love-of-my-life.pdf
 │   ├── La Vie en Rose.pdf
 │   └── RPA
 │       ├── RPA_A Time For Love.pdf
@@ -836,7 +832,6 @@
 │   ├── FFXV - Valse di Fantastica.pdf
 │   ├── Fairy Tail Main Theme (slow).pdf
 │   ├── Francis Lai - Love Story ( Where do I begin ).pdf
-│   ├── Hal Leonard Jazz Library.pdf
 │   ├── Howl's Moving Castle ( arr. by PaRaD1SE ).pdf
 │   ├── Kirby Super Star - Marx Battle (Fastain's arrangement, as played by Zohar).pdf
 │   ├── Remake our Life! (OST) - Don't Give Up.pdf
@@ -844,7 +839,6 @@
 │   ├── Steins;Gate - Gate of Steiner (Takeshi Abo ver.).pdf
 │   ├── Steins;Gate - Gate of Steiner.pdf
 │   ├── Steins;Gate 0 - Gate of Steiner.pdf
-│   ├── The Piano Solos of Richard Clayderman.pdf
 │   └── Yakuza - Baka Mitai.pdf
 ├── Personal Favorites
 │   ├── Beethoven Virus JAzz.pdf
@@ -995,4 +989,4 @@
 │   └── strangers-in-the-night.pdf
 └── tree.txt
 
-42 directories, 954 files
+41 directories, 949 files
