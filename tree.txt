@@ -3,42 +3,325 @@
 │   ├── Beethoven Virus (Allegro).pdf
 │   └── Beethoven Virus JAzz.pdf
 ├── Classical
+│   ├── Bach, JS
+│   │   ├── 371 Four-Part Chorales
+│   │   │   ├── 4-Part Chorales (part 1).pdf
+│   │   │   ├── 4-Part Chorales (part 2).pdf
+│   │   │   ├── 4-Part Chorales (part 3).pdf
+│   │   │   └── 4-Part Chorales (part 4).pdf
+│   │   ├── 6 Brandenburg Concertos for 4 Hands
+│   │   │   ├── Brandenburg Concerto No 1.pdf
+│   │   │   ├── Brandenburg Concerto No 2.pdf
+│   │   │   ├── Brandenburg Concerto No 3.pdf
+│   │   │   ├── Brandenburg Concerto No 4.pdf
+│   │   │   ├── Brandenburg Concerto No 5.pdf
+│   │   │   └── Brandenburg Concerto No 6.pdf
+│   │   ├── 6 English Suites
+│   │   │   ├── English Suite No 1 in A  BWV 806.pdf
+│   │   │   ├── English Suite No 2 in a, BWV 807.pdf
+│   │   │   ├── English Suite No 3 in g, BWV 808.pdf
+│   │   │   ├── English Suite No 4 in F. BWV 809.pdf
+│   │   │   ├── English Suite No 5 in e, BWV 810.pdf
+│   │   │   └── English Suite No 6 in d, BWV 811.pdf
+│   │   ├── 6 French Suites
+│   │   │   ├── French Suite No 1 in d, BWV 812.pdf
+│   │   │   ├── French Suite No 2 in c, BWV 813.pdf
+│   │   │   ├── French Suite No 3 in b, BWV 814.pdf
+│   │   │   ├── French Suite No 4 in Eb, BWV 815.pdf
+│   │   │   ├── French Suite No 5 in G, BWV 816.pdf
+│   │   │   └── French Suite No 6 in E, BWV 817.pdf
+│   │   ├── 6 Partitas
+│   │   │   ├── Partita No 1.pdf
+│   │   │   ├── Partita No 2.pdf
+│   │   │   ├── Partita No 3.pdf
+│   │   │   ├── Partita No 4.pdf
+│   │   │   ├── Partita No 5.pdf
+│   │   │   └── Partita No 6.pdf
+│   │   ├── 7 Toccatas
+│   │   │   ├── Toccata No 1 in f#, BWV 910.pdf
+│   │   │   ├── Toccata No 2 in c, BWV 911.pdf
+│   │   │   ├── Toccata No 3 in D, BWV 912.pdf
+│   │   │   ├── Toccata No 4 in d, BWV 913.pdf
+│   │   │   ├── Toccata No 5 in e, BWV 914.pdf
+│   │   │   ├── Toccata No 6 in g, BWV 915.pdf
+│   │   │   └── Toccata No 7 in G, BWV 916.pdf
+│   │   ├── Goldberg Variations
+│   │   │   └── Goldberg Variations, BWV 988.pdf
+│   │   ├── Inventions and Sinfonias
+│   │   │   ├── 15 Inventions.pdf
+│   │   │   └── 15 Sinfonias.pdf
+│   │   ├── Other
+│   │   │   ├── Adagio in G, BWV 968.pdf
+│   │   │   ├── Aria Variata, BWV 989.pdf
+│   │   │   ├── Clavier Book for WF Bach.pdf
+│   │   │   ├── Gavotte in g.pdf
+│   │   │   ├── Minuet in c.pdf
+│   │   │   ├── Minuet in F.pdf
+│   │   │   ├── Minuet in g_a.pdf
+│   │   │   ├── Minuet in g_b.pdf
+│   │   │   ├── Minuet in G.pdf
+│   │   │   └── Notebook for AM Bach.pdf
+│   │   ├── Preludes, Fantasias, Fugues
+│   │   │   ├── 5 Preludes, BWV 939-943.pdf
+│   │   │   ├── 6 Preludes, BWV 933-938.pdf
+│   │   │   ├── Chromatic Fantasia (early), BWV 903a.pdf
+│   │   │   ├── Chromatic Fantasia and Fugue, BWV 903.pdf
+│   │   │   ├── Fantasia and Fughetta in Bb, BWV 907.pdf
+│   │   │   ├── Fantasia and Fughetta in D, BWV 908.pdf
+│   │   │   ├── Fantasia and Fugue in a, BWV 904.pdf
+│   │   │   ├── Fantasia and Fugue in a, BWV 944.pdf
+│   │   │   ├── Fantasia and Fugue in c, BWV 906.pdf
+│   │   │   ├── Fantasia and Fugue in d, BWV 905.pdf
+│   │   │   ├── Fantasia in c (incomplete).pdf
+│   │   │   ├── Fantasia in c, BWV 919.pdf
+│   │   │   ├── Fantasia in g, BWV 917.pdf
+│   │   │   ├── Fantasia in g, BWV 920.pdf
+│   │   │   ├── Fantasia on a Rondo in c, BWV 918.pdf
+│   │   │   ├── Fughetta in c, BWV 961.pdf
+│   │   │   ├── Fugue in A, BWV 896.pdf
+│   │   │   ├── Fugue in a, BWV 897.pdf
+│   │   │   ├── Fugue in a, BWV 947.pdf
+│   │   │   ├── Fugue in A, BWV 949.pdf
+│   │   │   ├── Fugue in A, BWV 950.pdf
+│   │   │   ├── Fugue in a, BWV 958.pdf
+│   │   │   ├── Fugue in a, BWV 959.pdf
+│   │   │   ├── Fugue in b, BWV 951.pdf
+│   │   │   ├── Fugue in Bb, BWV 954.pdf
+│   │   │   ├── Fugue in Bb, BWV 955.pdf
+│   │   │   ├── Fugue in C, BWV 946.pdf
+│   │   │   ├── Fugue in C, BWV 952.pdf
+│   │   │   ├── Fugue in C, BWV 953.pdf
+│   │   │   ├── Fugue in d, BWV 948.pdf
+│   │   │   ├── Fugue in e, BWV 956.pdf
+│   │   │   ├── Fugue in G, BWV 957.pdf
+│   │   │   ├── Prelude (Fantasia) in a, BWV 922.pdf
+│   │   │   ├── Prelude (Fantasia) in c, BWV 921.pdf
+│   │   │   ├── Prelude and Fughetta in d, BWV 899.pdf
+│   │   │   ├── Prelude and Fughetta in e, BWV 900.pdf
+│   │   │   ├── Prelude and Fughetta in F, BWV 901.pdf
+│   │   │   ├── Prelude and Fughetta in G, BWV 902.pdf
+│   │   │   ├── Prelude and Fugue in a, BWV 894.pdf
+│   │   │   ├── Prelude and Fugue in a, BWV 895.pdf
+│   │   │   ├── Prelude in b, BWV 923.pdf
+│   │   │   ├── Prelude in f.pdf
+│   │   │   ├── Prelude in G (alt), BWV 902a.pdf
+│   │   │   └── Prelude, Fugue and Allegro in Eb, BWV 998.pdf
+│   │   ├── Sonatas, Partitas
+│   │   │   ├── Partie in A, BWV 832.pdf
+│   │   │   ├── Partita in c, BWV 997.pdf
+│   │   │   ├── Partita in E, BWV 1006a.pdf
+│   │   │   ├── Sonata in a, BWV 965.pdf
+│   │   │   ├── Sonata in C, BWV 966.pdf
+│   │   │   ├── Sonata in D, BWV 963.pdf
+│   │   │   └── Sonata in d, BWV 964.pdf
+│   │   ├── Suites, Concertos, Capriccios, Overtures
+│   │   │   ├── Capriccio in E, BWV 993.pdf
+│   │   │   ├── Capriccio, BWV 992.pdf
+│   │   │   ├── Concerto and Fugue in c, BWV 909.pdf
+│   │   │   ├── Italian Concerto, BWV 971.pdf
+│   │   │   ├── Overture in F, BWV 820.pdf
+│   │   │   ├── Overture in French Style, BWV 831.pdf
+│   │   │   ├── Suite in a, BWV 818.pdf
+│   │   │   ├── Suite in Bb, BWV 821.pdf
+│   │   │   ├── Suite in Eb, BWV 819.pdf
+│   │   │   └── Suite in f (incomplete), BWV 823.pdf
+│   │   ├── The Art of the Fugue
+│   │   │   ├── The Art of the Fugue (part 1).pdf
+│   │   │   └── The Art of the Fugue (part 2).pdf
+│   │   ├── The Musical Offering
+│   │   │   └── The Musical Offering.pdf
+│   │   ├── The Well Tempered Clavier I
+│   │   │   ├── Prelude & Fugue_01.pdf
+│   │   │   ├── Prelude & Fugue_02.pdf
+│   │   │   ├── Prelude & Fugue_03.pdf
+│   │   │   ├── Prelude & Fugue_04.pdf
+│   │   │   ├── Prelude & Fugue_05.pdf
+│   │   │   ├── Prelude & Fugue_06.pdf
+│   │   │   ├── Prelude & Fugue_07.pdf
+│   │   │   ├── Prelude & Fugue_08.pdf
+│   │   │   ├── Prelude & Fugue_09.pdf
+│   │   │   ├── Prelude & Fugue_10.pdf
+│   │   │   ├── Prelude & Fugue_11.pdf
+│   │   │   ├── Prelude & Fugue_12.pdf
+│   │   │   ├── Prelude & Fugue_13.pdf
+│   │   │   ├── Prelude & Fugue_14.pdf
+│   │   │   ├── Prelude & Fugue_15.pdf
+│   │   │   ├── Prelude & Fugue_16.pdf
+│   │   │   ├── Prelude & Fugue_17.pdf
+│   │   │   ├── Prelude & Fugue_18.pdf
+│   │   │   ├── Prelude & Fugue_19.pdf
+│   │   │   ├── Prelude & Fugue_20.pdf
+│   │   │   ├── Prelude & Fugue_21.pdf
+│   │   │   ├── Prelude & Fugue_22.pdf
+│   │   │   ├── Prelude & Fugue_23.pdf
+│   │   │   └── Prelude & Fugue_24.pdf
+│   │   └── The Well Tempered Clavier II
+│   │       ├── Prelude & Fugue_01.pdf
+│   │       ├── Prelude & Fugue_02.pdf
+│   │       ├── Prelude & Fugue_03.pdf
+│   │       ├── Prelude & Fugue_04.pdf
+│   │       ├── Prelude & Fugue_05.pdf
+│   │       ├── Prelude & Fugue_06.pdf
+│   │       ├── Prelude & Fugue_07.pdf
+│   │       ├── Prelude & Fugue_08.pdf
+│   │       ├── Prelude & Fugue_09.pdf
+│   │       ├── Prelude & Fugue_10.pdf
+│   │       ├── Prelude & Fugue_11.pdf
+│   │       ├── Prelude & Fugue_12.pdf
+│   │       ├── Prelude & Fugue_13.pdf
+│   │       ├── Prelude & Fugue_14.pdf
+│   │       ├── Prelude & Fugue_15.pdf
+│   │       ├── Prelude & Fugue_16.pdf
+│   │       ├── Prelude & Fugue_17.pdf
+│   │       ├── Prelude & Fugue_18.pdf
+│   │       ├── Prelude & Fugue_19.pdf
+│   │       ├── Prelude & Fugue_20.pdf
+│   │       ├── Prelude & Fugue_21.pdf
+│   │       ├── Prelude & Fugue_22.pdf
+│   │       ├── Prelude & Fugue_23.pdf
+│   │       └── Prelude & Fugue_24.pdf
 │   ├── Beethoven
-│   │   ├── Sonata No. 1 Op. 2 No. 1.pdf
-│   │   ├── Sonata No. 10 Op. 14 No. 2.pdf
-│   │   ├── Sonata No. 11 Op. 22.pdf
-│   │   ├── Sonata No. 12 Op. 26.pdf
-│   │   ├── Sonata No. 13 Op. 27 No. 1 'Quasi una Fantasia'.pdf
-│   │   ├── Sonata No. 14 Op. 27 No. 2 'Quasi una Fantasia'.pdf
-│   │   ├── Sonata No. 15 Op. 28.pdf
-│   │   ├── Sonata No. 16 Op. 31 No. 1.pdf
-│   │   ├── Sonata No. 17 Op. 31 No. 2.pdf
-│   │   ├── Sonata No. 17 Tempest 2nd Movement.pdf
-│   │   ├── Sonata No. 18 Op. 31 No. 3.pdf
-│   │   ├── Sonata No. 19 Op. 49 No. 1.pdf
-│   │   ├── Sonata No. 2 Op. 2 No. 2.pdf
-│   │   ├── Sonata No. 20 Op. 49 No. 2.pdf
-│   │   ├── Sonata No. 21 Op. 53.pdf
-│   │   ├── Sonata No. 23 Op. 57.pdf
-│   │   ├── Sonata No. 24 Op. 54.pdf
-│   │   ├── Sonata No. 24 Op. 78.pdf
-│   │   ├── Sonata No. 25 Op. 79.pdf
-│   │   ├── Sonata No. 26 Op. 81.pdf
-│   │   ├── Sonata No. 27 Op. 90.pdf
-│   │   ├── Sonata No. 28 Op. 101.pdf
-│   │   ├── Sonata No. 29 Op. 106.pdf
-│   │   ├── Sonata No. 3 Op. 2 No. 3.pdf
-│   │   ├── Sonata No. 30 Op. 109.pdf
-│   │   ├── Sonata No. 31 Op. 110.pdf
-│   │   ├── Sonata No. 32 Op.111.pdf
-│   │   ├── Sonata No. 4 Op. 7.pdf
-│   │   ├── Sonata No. 5 Op. 10 No. 1.pdf
-│   │   ├── Sonata No. 6 Op. 10 No. 2.pdf
-│   │   ├── Sonata No. 7 Op. 10 No. 3.pdf
-│   │   ├── Sonata No. 9 Op. 14 No. 1.pdf
-│   │   ├── Sonate No. 17 Tempest 1st Movement.pdf
-│   │   ├── Sonate No. 8 Pathetique 1st Movement ( alt. ).pdf
-│   │   └── Sonate No. 8 Pathetique 1st Movement.pdf
+│   │   ├── 4 Hands
+│   │   │   ├── 3 Marches, Op 45 (4 Hands).pdf
+│   │   │   ├── 6 Variations, WoO 74 (4 Hands).pdf
+│   │   │   ├── Grosse Fuge, Op 133 (4 Hands).pdf
+│   │   │   ├── Sonata in D, Op 6 (4 Hands).pdf
+│   │   │   └── Variations in C, WoO 67 (4 Hands).pdf
+│   │   ├── Bagatelles
+│   │   │   ├── Bagatelle (Fur Elise), WoO 59.pdf
+│   │   │   ├── Bagatelle in Bb, WoO 60.pdf
+│   │   │   ├── Bagatelle in c, WoO 54.pdf
+│   │   │   ├── Bagatelles, Op 119.pdf
+│   │   │   ├── Bagatelles, Op 126.pdf
+│   │   │   └── Bagatelles, Op 33.pdf
+│   │   ├── Other
+│   │   │   ├── 12 German Dances, WoO 13.pdf
+│   │   │   ├── 12 German Dances, WoO 8.pdf
+│   │   │   ├── 12 Minuets, WoO 7.pdf
+│   │   │   ├── 2 Preludes, Op 39.pdf
+│   │   │   ├── 3 Contredances.pdf
+│   │   │   ├── 3 German Dances, WoO 42.pdf
+│   │   │   ├── 6 Ecossaises, WoO 83.pdf
+│   │   │   ├── 6 Landler, WoO 15.pdf
+│   │   │   ├── 6 Minuets, WoO 10.pdf
+│   │   │   ├── 7 Contredances, WoO 14.pdf
+│   │   │   ├── 7 Landler, WoO 11.pdf
+│   │   │   ├── Allegretto in b, WoO 61.pdf
+│   │   │   ├── Allegretto in c, WoO 53.pdf
+│   │   │   ├── Allegretto in C, WoO 56.pdf
+│   │   │   ├── Allegretto Quasi Andante, WoO 61a.pdf
+│   │   │   ├── Allemande in A, WoO 81.pdf
+│   │   │   ├── Andante favori in F, WoO 57.pdf
+│   │   │   ├── Ecossaise in Eb, WoO 86.pdf
+│   │   │   ├── Ecossaise in G, WoO 23.pdf
+│   │   │   ├── Fantasia in g, Op 77.pdf
+│   │   │   ├── Minuet in Eb, WoO 82.pdf
+│   │   │   ├── Polonaise in C, Op 89.pdf
+│   │   │   ├── Prelude in f, WoO 55.pdf
+│   │   │   ├── Presto in c, WoO 52.pdf
+│   │   │   ├── Rondo a Capriccio in G, Op 129.pdf
+│   │   │   ├── Rondo in A, WoO 49.pdf
+│   │   │   ├── Rondo in C, WoO 48.pdf
+│   │   │   ├── Rondo in C, WoO 51.pdf
+│   │   │   ├── Rondo in G, WoO 51.pdf
+│   │   │   ├── Waltz in D, WoO 85.pdf
+│   │   │   └── Waltz in Eb, WoO 84.pdf
+│   │   ├── Piano with Orchestra
+│   │   │   ├── Cadenzas
+│   │   │   │   ├── Piano Concerto No 1 Candenzas.pdf
+│   │   │   │   ├── Piano Concerto No 1 in C, Op 15 (appndx).pdf
+│   │   │   │   ├── Piano Concerto No 2 Candenza.pdf
+│   │   │   │   ├── Piano Concerto No 2 in Bb, Op 19 (appndx).pdf
+│   │   │   │   ├── Piano Concerto No 3 Candenza.pdf
+│   │   │   │   ├── Piano Concerto No 3 in c, Op 37 (appndx).pdf
+│   │   │   │   ├── Piano Concerto No 4 Candenzas.pdf
+│   │   │   │   └── Piano Concerto No 4 in G, Op 58 (appndx).pdf
+│   │   │   ├── Choral Fantasy in c, Op 80.pdf
+│   │   │   ├── Piano Concerto No 1 in C, Op 15 (2 piano).pdf
+│   │   │   ├── Piano Concerto No 2 in Bb, Op 19 (2 piano).pdf
+│   │   │   ├── Piano Concerto No 3 in c, Op 37 (2 piano).pdf
+│   │   │   ├── Piano Concerto No 4 in G, Op 58 (2 piano).pdf
+│   │   │   ├── Piano Concerto No 5 in Eb, Op 73 (2 piano).pdf
+│   │   │   └── Triple Concerto in C, Op 56 (2 Piano).pdf
+│   │   ├── Quartets Arranged for Solo Piano
+│   │   │   ├── Grosse Fuge, Op 133.pdf
+│   │   │   ├── Quartet No 1, Op 18.pdf
+│   │   │   ├── Quartet No 10, Op 74.pdf
+│   │   │   ├── Quartet No 11, Op 95.pdf
+│   │   │   ├── Quartet No 12, Op 127.pdf
+│   │   │   ├── Quartet No 13, Op 130.pdf
+│   │   │   ├── Quartet No 14, Op 131.pdf
+│   │   │   ├── Quartet No 15, Op 132.pdf
+│   │   │   ├── Quartet No 16, Op 135.pdf
+│   │   │   ├── Quartet No 2, Op 18.pdf
+│   │   │   ├── Quartet No 3, Op 18.pdf
+│   │   │   ├── Quartet No 4, Op 18.pdf
+│   │   │   ├── Quartet No 5, Op 18.pdf
+│   │   │   ├── Quartet No 6, Op 18.pdf
+│   │   │   ├── Quartet No 7, Op 59.pdf
+│   │   │   ├── Quartet No 8, Op 59.pdf
+│   │   │   └── Quartet No 9, Op 59.pdf
+│   │   ├── Sonatas
+│   │   │   ├── Piano Sonata_01.pdf
+│   │   │   ├── Piano Sonata_02.pdf
+│   │   │   ├── Piano Sonata_03.pdf
+│   │   │   ├── Piano Sonata_04.pdf
+│   │   │   ├── Piano Sonata_05.pdf
+│   │   │   ├── Piano Sonata_06.pdf
+│   │   │   ├── Piano Sonata_07.pdf
+│   │   │   ├── Piano Sonata_08.pdf
+│   │   │   ├── Piano Sonata_09.pdf
+│   │   │   ├── Piano Sonata_10.pdf
+│   │   │   ├── Piano Sonata_11.pdf
+│   │   │   ├── Piano Sonata_12.pdf
+│   │   │   ├── Piano Sonata_13.pdf
+│   │   │   ├── Piano Sonata_14.pdf
+│   │   │   ├── Piano Sonata_15.pdf
+│   │   │   ├── Piano Sonata_16.pdf
+│   │   │   ├── Piano Sonata_17.pdf
+│   │   │   ├── Piano Sonata_18.pdf
+│   │   │   ├── Piano Sonata_19.pdf
+│   │   │   ├── Piano Sonata_20.pdf
+│   │   │   ├── Piano Sonata_21.pdf
+│   │   │   ├── Piano Sonata_22.pdf
+│   │   │   ├── Piano Sonata_23.pdf
+│   │   │   ├── Piano Sonata_24.pdf
+│   │   │   ├── Piano Sonata_25.pdf
+│   │   │   ├── Piano Sonata_26.pdf
+│   │   │   ├── Piano Sonata_27.pdf
+│   │   │   ├── Piano Sonata_28.pdf
+│   │   │   ├── Piano Sonata_29.pdf
+│   │   │   ├── Piano Sonata_30.pdf
+│   │   │   ├── Piano Sonata_31.pdf
+│   │   │   └── Piano Sonata_32.pdf
+│   │   ├── Sonatinas
+│   │   │   ├── Sonatina in C.pdf
+│   │   │   ├── Sonatina in D.pdf
+│   │   │   ├── Sonatina in Eb.pdf
+│   │   │   ├── Sonatina in F, Anh 5.pdf
+│   │   │   ├── Sonatina in f.pdf
+│   │   │   └── Sonatina in G, Anh 5.pdf
+│   │   └── Variations
+│   │       ├── 10 Variations, WoO 73.pdf
+│   │       ├── 12 Variations, WoO 68.pdf
+│   │       ├── 12 Variations, WoO 71.pdf
+│   │       ├── 13 Variations, WoO 66.pdf
+│   │       ├── 24 Variations, WoO 65.pdf
+│   │       ├── 32 Variations in c, WoO 80.pdf
+│   │       ├── 5 Variations, WoO 79.pdf
+│   │       ├── 6 Variations in G, WoO 77.pdf
+│   │       ├── 6 Variations on an Original Theme, Op 34.pdf
+│   │       ├── 6 Variations on an Original Theme, Op 76.pdf
+│   │       ├── 6 Variations, WoO 64.pdf
+│   │       ├── 6 Variations, WoO 70.pdf
+│   │       ├── 7 Variations in C, WoO 78.pdf
+│   │       ├── 7 Variations, WoO 75.pdf
+│   │       ├── 8 Variations, WoO 72.pdf
+│   │       ├── 8 Variations, WoO 76.pdf
+│   │       ├── 9 Variations, WoO 63.pdf
+│   │       ├── 9 Variations, WoO 69.pdf
+│   │       ├── Diabelli Variations, Op 120.pdf
+│   │       └── Eroica Variations, Op 35.pdf
 │   ├── Chopin
 │   │   ├── Ballades
 │   │   │   ├── Ballade No 1 in g, Op 23.pdf
@@ -281,8 +564,32 @@
 │   ├── Mozart - Lacrimosa ( arr. by Liszt ).pdf
 │   ├── Mozart - Lacrimosa ( arr. by Thalberg ).pdf
 │   ├── Rachmaninov
-│   │   ├── Rachmaninov - Prelude in C# Minor.pdf
-│   │   └── Rachmaninov - Prelude in G Minor.pdf
+│   │   ├── 2 Piano
+│   │   │   ├── Suite No 1, Op 5 (2 Piano).pdf
+│   │   │   └── Suite No 2, Op 17 (2 Piano).pdf
+│   │   ├── 4 Hands
+│   │   │   └── 6 Pieces, Op 11 (4 Hands).pdf
+│   │   ├── Etudes
+│   │   │   ├── 8 Etudes Tableaux, Op 33.pdf
+│   │   │   └── 9 Etudes Tableaux, Op 39.pdf
+│   │   ├── Other
+│   │   │   ├── 5 Fantasy Pieces, Op 3.pdf
+│   │   │   ├── 6 Moments Musical, Op 16.pdf
+│   │   │   ├── 7 Morceaux de Salon, Op 10.pdf
+│   │   │   ├── Romance.pdf
+│   │   │   └── Variations on a Theme by Chopin, Op 22.pdf
+│   │   ├── Piano with Orchestra
+│   │   │   ├── Piano Concerto No 1 in f#, Op 1 (2 Piano).pdf
+│   │   │   ├── Piano Concerto No 2 in c, Op 18 (2 Piano).pdf
+│   │   │   ├── Piano Concerto No 3 in d, Op 30 (2 Piano).pdf
+│   │   │   └── Rhapsody on a Theme by Paganini, Op 43 (2 Piano).pdf
+│   │   ├── Preludes
+│   │   │   ├── 10 Preludes, Op 23.pdf
+│   │   │   └── 13 Preludes, Op 32.pdf
+│   │   └── Sonatas
+│   │       ├── Piano Sonata No 1 in d, Op 28.pdf
+│   │       ├── Piano Sonata No 2 in bb, Op 36 (original).pdf
+│   │       └── Piano Sonata No 2 in bb, Op 36.pdf
 │   ├── Vittorio Monti - Czardas.pdf
 │   └── Vivaldi - Winter.pdf
 ├── Collections
@@ -1330,4 +1637,4 @@
     ├── Star Ocean 3 - So Alone Be Sorrow.pdf
     └── Xenogears - Shevat, The Wind is Calling.pdf
 
-64 directories, 1267 files
+97 directories, 1541 files
